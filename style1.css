@@ -1,5 +1,5 @@
 body{
-	text-align: center;
+	text-align: left;
 }
 
 h1{
@@ -22,6 +22,9 @@ h3{
 	text-align: justify;
 }
 
+a{
+   text-align: left;
+}
 
 a:link { color: blue;}
 a:visited { color: blue;}
